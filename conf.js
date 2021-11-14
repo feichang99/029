@@ -134,9 +134,9 @@ jsproxy_config({
      },
     },
     'cfworker': {
-      label: 'jz',
+      label: 'dw-jz126',
       lines: {
-        'jj.693.workers.dev': 1,
+        'dw.jz126.workers.dev': 1,
         'j.xj2.workers.dev': 1,
         'damp-shape-64ee.693.workers.dev': 1,
         'dark-bread-0041.693.workers.dev': 1,
