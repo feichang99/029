@@ -17,121 +17,121 @@ jsproxy_config({
       lines: {
         '2.yd029.workers.dev': 1,
         'crimson-snow-3307.029sina.workers.dev': 2,
-      }
+      },
    },
     'demo-sg': {
       label: '1-639-节点',
       lines: {
         '1.693.workers.dev': 1,
-      }
+      },
     },
     'demok-sg': {
       label: '1.wv1-节点',
       lines: {
         '1.wv1.workers.dev': 1,
-      }
+      },
    },
     'dshjh': {
       label: '1112v-kmw',
       lines: {
         '1112v.029.workers.dev': 1,
-      }
+      },
     },
     'sffs-ij': {
       label: 'sparkling-kmw',
       lines: {
         'sparkling-dust-39b8.029.workers.dev': 1,
-      }
+      },
     },
     'suyb-okm': {
       label: 'term-kmw',
       lines: {
         'throbbing-term-1ac3.029.workers.dev': 1,
-      }
+      },
     },
     'fafar-dffds': {
       label: 'damp-kmw',
       lines: {
         'damp-sea-e13b.029.workers.dev': 1,
-      }
+      },
     },
     'dfgd-gfd': {
       label: 'billowing-kmw',
       lines: {
         'billowing-silence-c555.029.workers.dev': 1,
-      }
+      },
     },
     'fdgd-fgr': {
       label: '1112u-kmw',
       lines: {
         '1112u.029.workers.dev': 1,
-      }
+      },
     },
     'mysite': {
       label: 'b5站点',
       lines: {
         'rapid-salad-f4b5.vvread.workers.dev': 1,
-      }
+      },
     },
     'hflkjngfdu': {
-      label: '029-雅虎',
+      label: '029-restless雅虎',
       lines: {
         'restless-moon-9c9d.029.workers.dev': 1,
-      }
+      },
     },
     'zjhndbe': {
-      label: '029-雅虎',
+      label: '029-flat雅虎',
       lines: {
         'flat-mud-0c10.029.workers.dev': 1,
-      }
+      },
     },
     'hubrnjokj': {
-      label: '029-雅虎',
+      label: '029-patient雅虎',
       lines: {
         'patient-resonance-d097.029.workers.dev': 1,
-      }
+      },
     },
     'kjnokj': {
       label: 'jh5站点',
       lines: {
         'calm-snowflake-504d.029sina.workers.dev': 1,
-      }
+      },
     },
     'lkmjij': {
       label: 'jh2.029ff站点',
       lines: {
         'crimson-snow-3307.029sina.workers.dev': 1,
-     }
+     },
     },
     'lkkjh': {
       label: 'j.xj2站点',
       lines: {
         'j.xj2.workers.dev': 1,
-     }
+     },
     },
     'lkujhj': {
       label: '64ee.693站点',
       lines: {
         'damp-shape-64ee.693.workers.dev': 1,
-     }
+     },
     },
     'dewsxokm': {
       label: 'xinlang站点',
       lines: {
         'wandering-salad-be28.029sina.workers.dev': 1,
-     }
+     },
     },
     'dfeifdfj': {
       label: 'feichang99站点',
       lines: {
         'feichang.029.workers.dev': 1,
-     }
+     },
     },
     'lkmrdvj': {
       label: '1.693站点',
       lines: {
         '1.693.workers.dev': 1,
-     }
+     },
     },
     'cfworker': {
       label: 'jz',
