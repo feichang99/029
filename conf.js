@@ -20,9 +20,9 @@ jsproxy_config({
       },
    },
     'demo-sg': {
-      label: 'google.126-节点',
+      label: 'yahoo-sy-126',
       lines: {
-        'google.jz126.workers.dev': 1,
+        'yahoo-sy-126.jz126.workers.dev': 1,
       },
     },
     'demok-sg': {
