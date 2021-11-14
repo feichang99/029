@@ -13,7 +13,7 @@ jsproxy_config({
   // 节点配置
   node_map: {
     'demo-hk': {
-      label: 'yy-2点',
+      label: 'yd029-2点',
       lines: {
         '2.yd029.workers.dev': 1,
         'crimson-snow-3307.029sina.workers.dev': 2,
@@ -164,7 +164,7 @@ jsproxy_config({
   /**
    * 默认节点
    */
-  node_default: 'demo-sg',
+  node_default: 'demo-hk',
   // node_default: /jsproxy-demo\.\w+$/.test(location.host) ? 'demo-hk' : 'mysite',
 
   /**
