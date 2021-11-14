@@ -20,9 +20,9 @@ jsproxy_config({
       },
    },
     'demo-sg': {
-      label: '1-639-节点',
+      label: 'google.126-节点',
       lines: {
-        '1.693.workers.dev': 1,
+        'google.jz126.workers.dev': 1,
       },
     },
     'demok-sg': {
@@ -164,7 +164,7 @@ jsproxy_config({
   /**
    * 默认节点
    */
-  node_default: 'mysite',
+  node_default: 'demo-sg',
   // node_default: /jsproxy-demo\.\w+$/.test(location.host) ? 'demo-hk' : 'mysite',
 
   /**
