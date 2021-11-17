@@ -94,13 +94,13 @@ jsproxy_config({
     'kjnokj': {
       label: 'jh5站点',
       lines: {
-        'calm-snowflake-504d.029sina.workers.dev': 1,
+        '029hh.odd-001.029hh.workers.dev': 1,
       }
     },
     'lkmjij': {
       label: 'jh2.029ff站点',
       lines: {
-        'crimson-snow-3307.029sina.workers.dev': 1,
+        'production.a.029hh.workers.dev': 1,
      }
     },
     'lkkjh': {
@@ -118,7 +118,7 @@ jsproxy_config({
     'dewsxokm': {
       label: 'xinlang站点',
       lines: {
-        'wandering-salad-be28.029sina.workers.dev': 1,
+        '029.jh2.029hh.workers.dev': 1,
      }
     },
     'dfeifdfj': {
