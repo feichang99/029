@@ -2,7 +2,7 @@ jsproxy_config({
   // 当前配置的版本（记录在日志中，用于排查问题）
   // 每次修改配置，该值需要增加，否则不会生效。
   // 默认每隔 5 分钟自动下载配置，若想立即验证，可通过隐私模式访问。
-  ver: '116',
+  ver: '117',
 
   // 通过 CDN 加速常用网站的静态资源（实验中）
   static_boost: {
@@ -32,39 +32,39 @@ jsproxy_config({
       }
    },
     'dshjh': {
-      label: '1112v-kmw',
+      label: '001-kmw',
       lines: {
-        '1112v.029.workers.dev': 1,
+        '001.001.029.workers.dev': 1,
       }
     },
     'sffs-ij': {
-      label: 'sparkling-kmw',
+      label: '002-kmw',
       lines: {
-        'sparkling-dust-39b8.029.workers.dev': 1,
+        '002.kmw.029.workers.dev': 1,
       }
     },
     'suyb-okm': {
-      label: 'term-kmw',
+      label: '03-kmw',
       lines: {
-        'throbbing-term-1ac3.029.workers.dev': 1,
+        'production.03.029.workers.dev': 1,
       }
     },
     'fafar-dffds': {
-      label: 'damp-kmw',
+      label: '5-kmw',
       lines: {
-        'damp-sea-e13b.029.workers.dev': 1,
+        'production.5.029.workers.dev': 1,
       }
     },
     'dfgd-gfd': {
-      label: 'billowing-kmw',
+      label: '02-kmw',
       lines: {
-        'billowing-silence-c555.029.workers.dev': 1,
+        'production.02.029.workers.dev': 1,
       }
     },
     'fdgd-fgr': {
-      label: '1112u-kmw',
+      label: '029hh-新浪',
       lines: {
-        '1112u.029.workers.dev': 1,
+        'production.029hh.029hh.workers.dev': 1,
       }
     },
     'mysite': {
@@ -74,15 +74,15 @@ jsproxy_config({
       }
     },
     'hflkjngfdu': {
-      label: '029-3雅虎',
+      label: '029hh.odd新浪',
       lines: {
-        'restless-moon-9c9d.029.workers.dev': 1,
+        '029hh.odd-001.029hh.workers.dev': 1,
       }
     },
     'zjhndbe': {
-      label: '029-2雅虎',
+      label: 'ifeng.jz-126',
       lines: {
-        'flat-mud-0c10.029.workers.dev': 1,
+        'ifeng.jz126.workers.dev': 1,
       }
     },
     'hubrnjokj': {
